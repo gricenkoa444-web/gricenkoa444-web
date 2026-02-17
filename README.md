@@ -76,8 +76,7 @@ Agile/SCRUM · Waterfall · Git/GitHub · CI/CD pipelines · Быстро осв
 ### 📫 Контакты
 
 - LinkedIn: https://www.linkedin.com/in/alesya-gritsenko/  
-- Email: gricenkoa@gmail.com 
-- Telegram: @fsociate
+- Telegram: @none_fsociety
 
 <div align="center">
   <i>Открыта к интересным проектам, ревью кода, обмену опытом в QA Automation и AI в тестировании! 💬</i>
