@@ -1,24 +1,24 @@
-<div align="center" style="position: relative; width: 100%; height: auto; margin-bottom: 30px;">
-  <!-- Большая картинка на весь баннер (та, что понравилась) -->
-  <img src="https://files.oaiusercontent.com/file-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX?se=2026-02-18TXX%3AXX%3AXXZ&sp=r&sv=2024-08-04&sr=b&rscca=1" 
-       alt="AI Robot Astronaut Cosmic Banner" 
-       style="width: 100%; height: auto; border-radius: 12px; display: block;">
+<div align="center" style="position: relative; width: 100%; margin-bottom: 30px;">
+  <!-- Большая картинка на весь баннер (робот-астронавт в космосе) -->
+  <img src="https://i.imgur.com/3ZfK9tL.jpg" 
+       alt="AI Robot Astronaut in Cosmic Space" 
+       style="width: 100%; height: auto; display: block; border-radius: 12px;">
 
-  <!-- Текст поверх картинки (полупрозрачный фон для читаемости) -->
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; 
-              background: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.7) 100%);
+  <!-- Текст поверх картинки с градиентным затемнением -->
+  <div style="position: absolute; inset: 0; 
+              background: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.75) 100%);
               display: flex; flex-direction: column; justify-content: center; align-items: center;
               color: white; text-align: center; padding: 20px; border-radius: 12px;">
     
-    <h1 style="margin: 0; font-size: 3.2em; text-shadow: 3px 3px 10px rgba(0,0,0,0.8);">
+    <h1 style="margin: 0; font-size: 3.5em; font-weight: bold; text-shadow: 4px 4px 12px rgba(0,0,0,0.9);">
       QA Automation & AI Engineer
     </h1>
     
-    <h2 style="margin: 12px 0 0; font-size: 1.8em; font-weight: 400; text-shadow: 2px 2px 8px rgba(0,0,0,0.7);">
+    <h2 style="margin: 15px 0 0; font-size: 2em; font-weight: 400; text-shadow: 3px 3px 10px rgba(0,0,0,0.8);">
       Alesya Gritsenko • 16+ лет в QA & Automation 🚀
     </h2>
 
-    <div style="margin-top: 20px; display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;">
+    <div style="margin-top: 25px; display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
       <img src="https://img.shields.io/badge/Experience-16%2B%20years-blue?style=for-the-badge&logo=clockify&logoColor=white" alt="16+ years">
       <img src="https://img.shields.io/badge/Specialization-QA%20Automation-green?style=for-the-badge&logo=selenium&logoColor=white" alt="QA Automation">
       <img src="https://img.shields.io/badge/Expertise-End--to--End%20Testing-orange?style=for-the-badge&logoColor=white" alt="E2E Testing">
