@@ -1,24 +1,35 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&section=header&text=QA%20Automation%20%26%20AI%20Engineer&fontSize=45&fontColor=ffffff" alt="QA Automation AI Engineer Banner" width="100%"/>
-  
-  <br/><br/>
-  
-  <!-- Анимированный робот-астронавт в космосе (надёжный GIF) -->
-  <img src="https://i.pinimg.com/originals/9c/e0/c8/9ce0c80bfb6790e39d34a2e4adbb4ea2.gif" alt="AI Robot in Space" width="280"/>
-  
-  <h1>Quality Assurance Engineer | 6+ лет в QA & Automation 🚀</h1>
-  
-  <img src="https://img.shields.io/badge/Experience-16%2B%20years-blue?style=for-the-badge&logo=clockify" alt="Experience" />
-  <img src="https://img.shields.io/badge/Specialization-QA%20Automation-green?style=for-the-badge&logo=selenium" alt="QA Automation" />
-  <img src="https://img.shields.io/badge/Expertise-End--to--End%20Testing-orange?style=for-the-badge" alt="E2E Testing" />
-  
-  <br/><br/>
-  
-  **Привет! Я — Alesya Gritsenko** (gricenkoa444-web)  
-  QA Automation Engineer с более чем 6 годами опыта в тестировании веб-, облачных, клиент-серверных, десктопных и мобильных приложений.
-  
-  Специализируюсь на **автоматизации (UI/API/Performance)**, создании фреймворков, интеграции в CI/CD и использовании AI-инструментов для QA.
+<div align="center" style="position: relative; width: 100%; height: auto; margin-bottom: 30px;">
+  <!-- Большая картинка на весь баннер (та, что понравилась) -->
+  <img src="https://files.oaiusercontent.com/file-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX?se=2026-02-18TXX%3AXX%3AXXZ&sp=r&sv=2024-08-04&sr=b&rscca=1" 
+       alt="AI Robot Astronaut Cosmic Banner" 
+       style="width: 100%; height: auto; border-radius: 12px; display: block;">
+
+  <!-- Текст поверх картинки (полупрозрачный фон для читаемости) -->
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; 
+              background: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.7) 100%);
+              display: flex; flex-direction: column; justify-content: center; align-items: center;
+              color: white; text-align: center; padding: 20px; border-radius: 12px;">
+    
+    <h1 style="margin: 0; font-size: 3.2em; text-shadow: 3px 3px 10px rgba(0,0,0,0.8);">
+      QA Automation & AI Engineer
+    </h1>
+    
+    <h2 style="margin: 12px 0 0; font-size: 1.8em; font-weight: 400; text-shadow: 2px 2px 8px rgba(0,0,0,0.7);">
+      Alesya Gritsenko • 16+ лет в QA & Automation 🚀
+    </h2>
+
+    <div style="margin-top: 20px; display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;">
+      <img src="https://img.shields.io/badge/Experience-16%2B%20years-blue?style=for-the-badge&logo=clockify&logoColor=white" alt="16+ years">
+      <img src="https://img.shields.io/badge/Specialization-QA%20Automation-green?style=for-the-badge&logo=selenium&logoColor=white" alt="QA Automation">
+      <img src="https://img.shields.io/badge/Expertise-End--to--End%20Testing-orange?style=for-the-badge&logoColor=white" alt="E2E Testing">
+    </div>
+  </div>
 </div>
+
+**Привет! Я — Alesya Gritsenko** (gricenkoa444-web)  
+QA Automation Engineer с более чем 16 годами опыта в тестировании веб-, облачных, клиент-серверных, десктопных и мобильных приложений.
+
+Специализируюсь на **автоматизации (UI/API/Performance)**, создании фреймворков, интеграции в CI/CD и использовании AI-инструментов для QA.
 
 ---
 
@@ -52,8 +63,11 @@ End-to-End · REST API · Web Performance & Load/Stress · Unit · Back-End · B
   ![Profile Views](https://komarev.com/ghpvc/?username=gricenkoa444-web&style=for-the-badge&color=brightgreen)
 </div>
 
-### 📈 Демонстрация автоматизации
+### 📫 Контакты
 
-**Selenium WebDriver в работе (пример запуска UI-теста):**
+- LinkedIn: https://www.linkedin.com/in/alesya-gritsenko/  
+- Telegram: @none_fsociety  
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG9jM3F0eG
+<div align="center">
+  <i>Открыта к интересным проектам, ревью кода, обмену опытом в QA Automation и AI в тестировании! 💬</i>
+</div>
