@@ -2,7 +2,7 @@
 
 ![](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
-I'm a results-oriented **Quality Assurance Automation Engineer** with 6+ years of experience ensuring the reliability and performance of complex software solutions. I specialize in building robust automation frameworks from the ground up and integrating quality into every stage of the SDLC.
+I'm a results-oriented **Quality Assurance Automation Engineer** with 1+ years of experience ensuring the reliability and performance of complex software solutions. I specialize in building robust automation frameworks from the ground up and integrating quality into every stage of the SDLC.
 
 My experience spans **Web, Cloud, Desktop, and Mobile** platforms, with a strong focus on **End-to-End**, **API**, and **Performance** testing.
 
